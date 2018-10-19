@@ -65,8 +65,9 @@ npm run dev
 
 ### 部分功能图：
 
-![1](C:\Users\xxz\Desktop\新建文件夹 (2)\Multiplayer-community\remadeimg\1.gif)
+![1](https://github.com/heimaozi/Multiplayer-community/blob/master/remadeimg/1.gif)
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------
 
-![2](C:\Users\xxz\Desktop\2.gif)
+![2](https://github.com/heimaozi/Multiplayer-community/blob/master/remadeimg/2.gif)
+
