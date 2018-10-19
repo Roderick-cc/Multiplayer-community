@@ -2,20 +2,6 @@
 <div>
 	<app-navbar></app-navbar>
 
-<!-- 
-	<h1>{{topic.id}}</h1>
-	<p>发布于{{topic.create_time | dateFormat }}</p>
-	<p v-if="isLoginUser">
-		<router-link :to="{name:'topicedit',params: {id: topic.id}}">编辑
-		</router-link>
-		<a @click.prevent="removeTopicByid(topic.id)" href="#">删除</a>
-	</p>
-	<h3> 文章标题：{{topic.title}}</h3>
-
-	<article>
-		<h4>文章内容：</h4>
-		{{topic.content}}
-	</article> -->
  
 <div class="detail-container container">
 
