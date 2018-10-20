@@ -76,7 +76,8 @@ npm run dev
 
 ![2](https://github.com/heimaozi/Multiplayer-community/blob/master/remadeimg/2.gif)
 
-###结语
+
+### 结语
 后续功能将持续开发更新，如果有错或者有问题的地方，可以提交一下issues
 
 
